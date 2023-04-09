@@ -1,0 +1,20 @@
+.jumbotron{
+    padding-top: 5rem;
+    background-color: #f4a261;
+    color: #264653;
+}
+#about{
+    background-color: #E9c46A;
+    color: #2e8f83;
+    padding-top: 5rem;
+}
+#product{
+    background-color: #f4a261;
+    color: #264653;
+    padding-top: 5rem;
+}
+#contact{
+    background-color: #E9c46A;
+    color: #2e8f83;
+    padding-top: 5rem;
+}
